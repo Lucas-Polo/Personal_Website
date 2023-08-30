@@ -77,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a postdoctoral researcher at the _Institut d'Electronique et des Technologies du numéRique_ ([IETR](https://www.ietr.fr/en)) at the [INSA Rennes site](https://www.insa-rennes.fr/insa-rennes-2.html). I work in the development of software tools with high computational efficiency for modelling antennas and waveguide devices. I have a strong interest in dielectric-free miniaturized radiating elements for their integration on highly-reconfigurable arrays. In addition, I am also interested in the additive manufacturing of waveguide devices.
+I am a postdoctoral researcher at the _Institut d'Electronique et des Technologies du numéRique_ ([IETR](https://www.ietr.fr/en)) at the [INSA Rennes](https://www.insa-rennes.fr/insa-rennes-2.html) site. I work in the development of software tools with high computational efficiency for modelling antennas and waveguide devices. I have a strong interest in dielectric-free miniaturized radiating elements for their integration on highly-reconfigurable arrays. In addition, I am also interested in the additive manufacturing of waveguide devices.
 {style="text-align: justify;"}
