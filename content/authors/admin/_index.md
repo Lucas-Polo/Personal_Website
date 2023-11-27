@@ -32,6 +32,7 @@ interests:
   - Fully-metallic antennas
   - Active antenna arrays
   - Additive manufacturing
+  - Optimization techniques
 
 # Education to show in About widget
 education:
