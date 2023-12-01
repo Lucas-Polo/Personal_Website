@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Post-doctoral researcher
+role: Research engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
